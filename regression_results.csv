@@ -1,0 +1,4 @@
+,Model,R2,MAPE
+1,Random Forest Regressor,0.4356,0.1922
+2,Gradient Boosting Regressor,0.4341,0.2047
+0,Linear Regression,0.2864,0.2659
